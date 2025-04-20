@@ -53,9 +53,11 @@ This is a decentralized application (Dapp) for managing user registrations, debt
    cd expense-manager-dapp
 
 2. Install dependencies:
+   ```bash
     npm install
 
 3. Start the project:
+   ```bash
     npm run dev
     
 4. Connect your MetaMask wallet and interact with the app.
